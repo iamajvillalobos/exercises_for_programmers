@@ -19,7 +19,7 @@ All solutions were written with Elixir 1.3.
 
 ## The Exercises
 
- 1. Saying Hello
+ 1. [Saying Hello](01-saying-hello)
  2. Counting the Number of Characters
  3. Printing Quotes
  4. Mad Lib
