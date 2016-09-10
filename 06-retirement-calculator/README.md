@@ -26,5 +26,7 @@ time via your programming lan- guage
 
 As this is a mix project, it's difficult to run outside the root directory
 of the mix app. Do this instead:
-  1. `cd retirement_calculator`
-  2. `mix run lib/retirement_calculator.ex`
+```bash
+cd retirement_calculator
+mix run lib/retirement_calculator.ex
+```
